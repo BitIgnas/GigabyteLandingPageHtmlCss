@@ -1,0 +1,821 @@
+/*
+	@name terabyte_landing_page
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1910px;
+  width: 1910px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content-container > div {
+  position: relative;
+  top: inherit;
+}
+#page_frame_1_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1910px;
+  height: 3154px;
+}
+
+#_bg__frame_1_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1910px;
+  height: 3154px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#overview {
+  top: 1247px;
+  left: -2px;
+  width: 1912px;
+  height: 912px;
+}
+
+#rectangle_6 {
+  top: 0px;
+  left: 0px;
+  width: 1912px;
+  height: 912px;
+  background: rgba(255, 255, 255, 0);
+  background: -webkit-linear-gradient(
+    19.216464205951deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.74) 100%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -o-linear-gradient(
+    19.216464205951deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.74) 100%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -moz-linear-gradient(
+    19.216464205951deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.74) 100%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -ms-linear-gradient(
+    19.216464205951deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.74) 100%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: linear-gradient(
+    19.216464205951deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.74) 100%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+#get_ready_for_ryzen_5000_series {
+  top: 98px;
+  left: 379px;
+  width: 1181px;
+  height: 121px;
+  overflow: hidden;
+  font-family: Nunito Sans;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 68.976001739502px;
+  letter-spacing: 1.92px;
+  color: #f8f8f8;
+}
+
+#pngitem_6578332_1 {
+  top: 7px;
+  left: 189px;
+  width: 180.4px;
+  height: 225px;
+}
+
+#motherboard_is_ready_to_support_the_latest_amd_ryzen__5000_series_processors_and_are_backwards_compatible_with_amd_ryzen__4000__3000__2000_and_1000_series_processors__with_a_rich_list_of_features_on_gigabyte_motherboards_such_as_ultra_durable__armor_for_pcie__memory_slots__usb_type_c__interfaces_on_select_boards__refined_audio_quality__high_speed_ethernet__and_the_latest_standard_wifi_design_on_selected_models__gigabyte_motherboards_are_perfect_for_users_looking_to_build_the_best_amd_platform_systems_ {
+  top: 183px;
+  left: 420px;
+  width: 922.43px;
+  height: 242px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #ffffff;
+}
+
+#pngwing_1 {
+  top: 390px;
+  left: 991px;
+  width: 901.98px;
+  height: 458px;
+}
+
+#rectangle_7 {
+  top: 2149px;
+  left: 0px;
+  width: 1910px;
+  height: 1005px;
+  background: rgba(43.56, 40.11, 40.11, 1);
+}
+
+#aorus_logo_4_2 {
+  top: 2234px;
+  left: 1431px;
+  width: 246px;
+  height: 43px;
+}
+
+#rectangle_5 {
+  top: 1190px;
+  left: -26px;
+  width: 1936px;
+  height: 59px;
+  background: rgba(53.12, 46.48, 46.48, 1);
+}
+
+#rectangle_1 {
+  top: 904px;
+  left: 0px;
+  width: 662px;
+  height: 286px;
+  background: rgba(53.12, 46.48, 46.48, 1);
+}
+
+#rectangle_2 {
+  top: 904px;
+  left: 662px;
+  width: 642px;
+  height: 286px;
+  background: rgba(53.12, 46.48, 46.48, 1);
+}
+
+#rectangle_3 {
+  top: 904px;
+  left: 1304px;
+  width: 606px;
+  height: 286px;
+  background: rgba(53.12, 46.48, 46.48, 1);
+}
+
+#main_body {
+  top: 116px;
+  left: 0px;
+  width: 1910px;
+  height: 789px;
+  background: rgba(53.12, 46.48, 46.48, 1);
+}
+
+#home___socket_am4___b450m_aorus_m {
+  top: 146px;
+  left: 50px;
+  width: 413px;
+  height: 65px;
+  overflow: hidden;
+  font-family: Dosis;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 34.488000869751px;
+  color: #e7dbdb;
+}
+
+#navigation {
+  top: 0px;
+  left: 0px;
+  width: 1910px;
+  height: 116px;
+}
+
+#navigation_bar {
+  top: 0px;
+  left: 0px;
+  width: 1910px;
+  height: 116px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#terabyte {
+  top: 16px;
+  left: 50px;
+  width: 483px;
+  height: 71px;
+}
+
+#terabyte_ek1 {
+  top: 8px;
+  left: 0px;
+  width: 512px;
+  height: 104px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 58px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 83.346002101898px;
+  color: #000000;
+}
+
+#__ {
+  top: 0px;
+  left: 299px;
+  width: 84px;
+  height: 98px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 72px;
+  text-align: left;
+  line-height: 103.46400260925px;
+  letter-spacing: 820.8px;
+  color: #000000;
+}
+
+#products__ {
+  top: 40px;
+  left: 841px;
+  width: 176px;
+  height: 63px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 28px;
+  text-align: left;
+  line-height: 40.236001014709px;
+  letter-spacing: 0.84px;
+  color: #000000;
+}
+
+#service_support {
+  top: 39px;
+  left: 1043px;
+  width: 238px;
+  height: 59px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 28px;
+  text-align: left;
+  line-height: 40.236001014709px;
+  letter-spacing: 0.84px;
+  color: #000000;
+}
+
+#news {
+  top: 40px;
+  left: 1307px;
+  width: 116px;
+  height: 59px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 28px;
+  text-align: left;
+  line-height: 40.236001014709px;
+  letter-spacing: 0.84px;
+  color: #000000;
+}
+
+#buy__ {
+  top: 40px;
+  left: 1449px;
+  width: 116px;
+  height: 59px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 28px;
+  text-align: left;
+  line-height: 40.236001014709px;
+  letter-spacing: 0.84px;
+  color: #000000;
+}
+
+#contacts {
+  top: 40px;
+  left: 1591px;
+  width: 147px;
+  height: 59px;
+  overflow: hidden;
+  font-family: Josefin Sans;
+  font-size: 28px;
+  text-align: left;
+  line-height: 40.236001014709px;
+  letter-spacing: 0.84px;
+  color: #000000;
+}
+
+#mb_name {
+  top: 183px;
+  left: 91px;
+  width: 501px;
+  height: 102px;
+}
+
+#aorus_b450__r_1ex_ {
+  top: 0px;
+  left: 0px;
+  width: 525px;
+  height: 136px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 48px;
+  text-align: left;
+  line-height: 68.976001739502px;
+  letter-spacing: 1.44px;
+  color: #f8f8f8;
+}
+
+#b450_am4_chipset {
+  top: 68px;
+  left: 23px;
+  width: 131px;
+  height: 31px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 14px;
+  text-align: left;
+  line-height: 20.118000507355px;
+  letter-spacing: 0.42px;
+  color: #796969;
+}
+
+#mb_name_ek1 {
+  top: 2226px;
+  left: 187px;
+  width: 501px;
+  height: 102px;
+}
+
+#aorus_b450__r_1ex__ek1 {
+  top: 0px;
+  left: 0px;
+  width: 525px;
+  height: 136px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 48px;
+  text-align: left;
+  line-height: 68.976001739502px;
+  letter-spacing: 1.44px;
+  color: #f8f8f8;
+}
+
+#b450_am4_chipset_ek1 {
+  top: 68px;
+  left: 23px;
+  width: 131px;
+  height: 31px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 14px;
+  text-align: left;
+  line-height: 20.118000507355px;
+  letter-spacing: 0.42px;
+  color: #796969;
+}
+
+#key_features {
+  top: 234px;
+  left: 1199px;
+  width: 176px;
+  height: 51px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #ffffff;
+}
+
+#specification {
+  top: 234px;
+  left: 1412px;
+  width: 177px;
+  height: 51px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #d7caca;
+}
+
+#support {
+  top: 234px;
+  left: 1617px;
+  width: 176px;
+  height: 51px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #d7caca;
+}
+
+#buy {
+  top: 234px;
+  left: 1765px;
+  width: 176px;
+  height: 51px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 24px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #d7caca;
+}
+
+#amd_b450_aorus_motherboard_with_hybrid_digital_pwm__m_2_with_thermal_guard__gigabyte_gaming_lan_with_25kv_esd_protection__anti_sulfur_design__cec_2019_ready__rgb_fusion_2_0_supports_amd_ryzen__5000_series___3rd_gen_ryzen___2nd_gen_ryzen___1st_gen_ryzen___2nd_gen_ryzen__with_radeon__vega_graphics__1st_gen_ryzen__with_radeon__vega_graphics__athlon__with_radeon__vega_graphics_processors_dual_channel_non_ecc_unbuffered_ddr4__4_dimms_hdmi__dvi_d_ports_for_multiple_display_ultra_fast_nvme_pcie_gen3_x4_m_2_with_thermal_guard_high_quality_audio_capacitors_and_audio_noise_guard_with_led_trace_path_lighting_rgb_fusion_2_0_with_multi_zone_led_light_show_design__supports_digital_led___rgb_led_strips_gigabyte_exclusive_8118_gaming_lan_with_bandwidth_management_smart_fan_5_features_5_temperature_sensors_and_3_hybrid_fan_headers_with_fan_stop_app_center_including_easytune__and_cloud_station__utilities_anti_sulfur_resistors_design_ultra_durable__25kv_esd_and_15kv_surge_lan_protection_cec_2019_ready__save_power_with_a_simple_click {
+  top: 308px;
+  left: 989px;
+  width: 846px;
+  height: 563px;
+  overflow: hidden;
+  margin: 0;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: left;
+  line-height: 34.488000869751px;
+  letter-spacing: 0.72px;
+  color: #fff7f7;
+}
+
+#aorus_logo_4_1 {
+  top: 216px;
+  left: 892px;
+  width: 246px;
+  height: 43px;
+}
+
+#_500__3__1 {
+  top: 204px;
+  left: 157px;
+  width: 619px;
+  height: 580px;
+}
+
+#line_1 {
+  top: 905px;
+  left: 116px;
+  width: 1678px;
+  height: 6px;
+
+  -ms-transform: rotate(0.04deg);
+  -o-transform: rotate(0.04deg);
+  -webkit-transform: rotate(0.04deg);
+  -moz-transform: rotate(0.04deg);
+  transform: rotate(0.04deg);
+  background: #120a0a;
+}
+
+#_500_1 {
+  top: 911px;
+  left: -39px;
+  width: 778px;
+  height: 266px;
+}
+
+#gigabyte_1 {
+  top: 915px;
+  left: 651px;
+  width: 607px;
+  height: 262px;
+}
+
+#_500__1__1 {
+  top: 867px;
+  left: 1309px;
+  width: 526px;
+  height: 500px;
+}
+
+#mb_specifications {
+  top: 1190px;
+  left: 8px;
+  width: 626px;
+  height: 59px;
+}
+
+#rectangle_4 {
+  top: 0px;
+  left: 0px;
+  width: 626px;
+  height: 59px;
+  background: rgba(105, 105, 105, 1);
+}
+
+#line_2 {
+  top: 59px;
+  left: 0px;
+  width: 626px;
+  height: 6px;
+  background: #e29522;
+}
+
+#mb_specifications_ek1 {
+  top: 1190px;
+  left: 642px;
+  width: 626px;
+  height: 59px;
+}
+
+#rectangle_4_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 626px;
+  height: 59px;
+  background: rgba(105, 105, 105, 1);
+}
+
+#line_2_ek1 {
+  top: 59px;
+  left: 0px;
+  width: 626px;
+  height: 6px;
+  background: #e29522;
+}
+
+#mb_specifications_ek2 {
+  top: 1190px;
+  left: 1276px;
+  width: 608px;
+  height: 59px;
+}
+
+#rectangle_4_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 608px;
+  height: 59px;
+  background: rgba(105, 105, 105, 1);
+}
+
+#line_2_ek2 {
+  top: 59px;
+  left: 0px;
+  width: 608px;
+  height: 6px;
+  background: #e29522;
+}
+
+#group_1 {
+  top: 1190px;
+  left: 0px;
+  width: 634px;
+  height: 59px;
+}
+#mb_specifications_ek3 {
+  top: 0px;
+  left: 8px;
+  width: 626px;
+  height: 59px;
+}
+
+#rectangle_4_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 626px;
+  height: 59px;
+  background: rgba(105, 105, 105, 1);
+}
+
+#line_2_ek3 {
+  top: 59px;
+  left: 0px;
+  width: 626px;
+  height: 6px;
+  background: #e29522;
+}
+
+#specifications {
+  top: 4px;
+  left: -6px;
+  width: 652px;
+  height: 80px;
+  overflow: hidden;
+  font-family: Coda;
+  font-size: 36px;
+  text-align: center;
+  line-height: 51.732001304626px;
+  letter-spacing: 1.44px;
+  color: #ffffff;
+}
+
+#overview_ek1 {
+  top: 1192px;
+  left: 636px;
+  width: 652px;
+  height: 80px;
+  overflow: hidden;
+  font-family: Coda;
+  font-size: 36px;
+  text-align: center;
+  line-height: 51.732001304626px;
+  letter-spacing: 1.44px;
+  color: #ffffff;
+}
+
+#where_to_buy {
+  top: 1192px;
+  left: 1270px;
+  width: 652px;
+  height: 80px;
+  overflow: hidden;
+  font-family: Coda;
+  font-size: 36px;
+  text-align: center;
+  line-height: 51.732001304626px;
+  letter-spacing: 1.44px;
+  color: #ffffff;
+}
+
+#ryzencpu_1 {
+  top: 1721px;
+  left: 204px;
+  width: 615px;
+  height: 205px;
+}
+
+#line_3 {
+  top: 2159px;
+  left: 0px;
+  width: 1910px;
+  height: 6px;
+  background: #9c9393;
+}
+
+#line_4 {
+  top: 2363px;
+  left: 187px;
+  width: 1569px;
+  height: 3px;
+
+  -ms-transform: rotate(0.04deg);
+  -o-transform: rotate(0.04deg);
+  -webkit-transform: rotate(0.04deg);
+  -moz-transform: rotate(0.04deg);
+  transform: rotate(0.04deg);
+  background: #ffffff;
+}
+
+#line_5 {
+  top: 2530px;
+  left: 187px;
+  width: 1569px;
+  height: 3px;
+
+  -ms-transform: rotate(0.04deg);
+  -o-transform: rotate(0.04deg);
+  -webkit-transform: rotate(0.04deg);
+  -moz-transform: rotate(0.04deg);
+  transform: rotate(0.04deg);
+  background: #ffffff;
+}
+
+#line_6 {
+  top: 2697px;
+  left: 187px;
+  width: 1569px;
+  height: 3px;
+
+  -ms-transform: rotate(0.04deg);
+  -o-transform: rotate(0.04deg);
+  -webkit-transform: rotate(0.04deg);
+  -moz-transform: rotate(0.04deg);
+  transform: rotate(0.04deg);
+  background: #ffffff;
+}
+
+#line_7 {
+  top: 2864px;
+  left: 187px;
+  width: 1569px;
+  height: 3px;
+
+  -ms-transform: rotate(0.04deg);
+  -o-transform: rotate(0.04deg);
+  -webkit-transform: rotate(0.04deg);
+  -moz-transform: rotate(0.04deg);
+  transform: rotate(0.04deg);
+  background: #ffffff;
+}
+
+#chipset {
+  top: 2414px;
+  left: 182px;
+  width: 324px;
+  height: 81px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 45.984001159668px;
+  letter-spacing: 0.96px;
+  color: #fffdfd;
+}
+
+#amd_b450 {
+  top: 2418px;
+  left: 511px;
+  width: 324px;
+  height: 81px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 32px;
+  text-align: center;
+  line-height: 45.984001159668px;
+  letter-spacing: 0.96px;
+  color: #fffdfd;
+}
+
+#realtek_audio_codec_high_definition_audio_2_4_5_1_7_1_channel_support_for {
+  top: 2749px;
+  left: 589px;
+  width: 1182px;
+  height: 79px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 30px;
+  text-align: left;
+  line-height: 43.110001087189px;
+  letter-spacing: 0.9px;
+  color: #fffdfd;
+}
+
+#supports_amd_ryzen__5000_series_processors___3rd_gen_ryzen___2nd_gen_ryzen___1st_gen_ryzen___2nd_gen_ryzen__with_radeon__vega_graphics__1st_gen_ryzen__with_radeon__vega_graphics__athlon__with_radeon__vega_graphics_processors {
+  top: 2550px;
+  left: 589px;
+  width: 1260px;
+  height: 80px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 30px;
+  text-align: left;
+  line-height: 43.110001087189px;
+  letter-spacing: 0.9px;
+  color: #fffdfd;
+}
+
+#cpu {
+  top: 2584px;
+  left: 182px;
+  width: 324px;
+  height: 81px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 45.984001159668px;
+  letter-spacing: 0.96px;
+  color: #fffdfd;
+}
+
+#audio {
+  top: 2751px;
+  left: 182px;
+  width: 324px;
+  height: 81px;
+  overflow: hidden;
+  font-family: Arial;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 45.984001159668px;
+  letter-spacing: 0.96px;
+  color: #fffdfd;
+}
+
+/* Add your custom CSS here */
